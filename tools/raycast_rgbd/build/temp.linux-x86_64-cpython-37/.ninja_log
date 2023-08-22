@@ -1,0 +1,3 @@
+# ninja log v5
+0	17350	1660307445605395434	/home/scanpb/khanal/Loss_Optimization/spsg_test/spsg/torch/utils/raycast_rgbd/build/temp.linux-x86_64-cpython-37/raycast_rgbd_cuda.o	b2613fbca50d79fa
+0	69016	1660307497273040329	/home/scanpb/khanal/Loss_Optimization/spsg_test/spsg/torch/utils/raycast_rgbd/build/temp.linux-x86_64-cpython-37/raycast_rgbd_cuda_kernel.o	2640ee5b01307b0b

@@ -1,4 +1,4 @@
-# 3DSL-SS22_OnlineFusion
+# 3DSL-SS22_OnlineFusion (Semester project at TUM)
 ## Project Summary
 
 Based on a framework named NeuralRecon for real-time 3D scene reconstruction from a monocular video, we experimented with the following idea:

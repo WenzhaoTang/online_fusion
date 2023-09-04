@@ -161,4 +161,9 @@ python3 tools/robust_photometric_loss.py --ref_rgb <Reference_Keypoint_Image> --
 ```
 
 
-# online_fusion
+## Credits
+The practical course "3D Scanning and Spatial Learning," provided by the Technical University of Munich, has designated this project. The team consists of the following members:
+ 
+- Parikshit Khanal
+- Siyun Liang
+- Wenzhao Tang
